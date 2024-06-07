@@ -1,2 +1,2 @@
-# My-Projects
-Here I am sharing all of my projects I have made.
+# QR Code Generator 
+This QR Code Generator can generate QR Code of texts, links etc. And this QR Code's png also save to your device.
